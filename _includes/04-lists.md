@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Clara
+- Arthur
+- Daddy
+- Running
+- Chocolate
+- Ice Cream
+- Wine
